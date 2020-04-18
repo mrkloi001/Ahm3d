@@ -1,0 +1,10 @@
+apt update
+apt Upgrade
+apt install python
+apt install python2
+apt install git
+pip2 install Mechanize
+pip2 install Requestes
+git clone https://github.com/MrAhm3d.Maxt3r
+cd Ahmi
+python2 Ahmed.py
